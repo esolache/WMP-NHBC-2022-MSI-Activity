@@ -1,0 +1,5 @@
+C:\Users\esolache\Source\Repos\WM-NHBC-Client-Sim\NHBC-Backend\NHBC-Backend\obj\Debug\netcoreapp3.1\NHBC-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esolache\Source\Repos\WM-NHBC-Client-Sim\NHBC-Backend\NHBC-Backend\obj\Debug\netcoreapp3.1\NHBC-Backend.AssemblyInfoInputs.cache
+C:\Users\esolache\Source\Repos\WM-NHBC-Client-Sim\NHBC-Backend\NHBC-Backend\obj\Debug\netcoreapp3.1\NHBC-Backend.AssemblyInfo.cs
+C:\Users\esolache\Source\Repos\WM-NHBC-Client-Sim\NHBC-Backend\NHBC-Backend\obj\Debug\netcoreapp3.1\NHBC-Backend.csproj.CoreCompileInputs.cache
+C:\Users\esolache\Source\Repos\WM-NHBC-Client-Sim\NHBC-Backend\NHBC-Backend\obj\Debug\netcoreapp3.1\NHBC-Backend.csproj.AssemblyReference.cache
