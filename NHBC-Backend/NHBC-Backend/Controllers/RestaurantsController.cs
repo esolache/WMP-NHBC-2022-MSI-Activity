@@ -70,10 +70,10 @@ namespace NHBC_Backend.Controllers
             }
         }
         // PUT 
-        [HttpPut("{id}")]
+        [HttpPut]
         public async Task<IActionResult> Edit([FromBody] Restaurants restaurants)
         {
-                await _cosmosDbService.UpdateAsync("{id}", restaurants);
+                await _cosmosDbService.UpdateAsync(restaurants.Id, restaurants);
                 return Ok();
            
         }
